@@ -1,5 +1,5 @@
 # 💫 About Me:
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img align="right" width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 I’m currently learning ReactJS<br>Ask me about HTML CSS JAVASCRIPT JQUERY<br>How to reach me kaushikverma321@gmail.com
 
 ## 🌐 Socials:
