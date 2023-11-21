@@ -18,23 +18,20 @@
         <td align="center">C++<br>
         <span align="center"><img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/></span>
         </td>
-        <td align="center">Python<br>
-        <span align="center"><img src="https://img.icons8.com/color/48/000000/python.png"/></span>
-        </td>
-      <td align="center">JavaScript<br>
-        <span align="center"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></span>
-      </td>
         <td align="center">HTML<br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></span>
       </td>
       <td align="center">CSS<br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/css3.png" /></span>
         </td>
-      <td align="center">TAILWIND CSS<br>
-        <span align="center"><img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/></span>
+      <td align="center">JavaScript<br>
+        <span align="center"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></span>
       </td>
       <td align="center">BOOTSTARP<br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></span>
+      </td>
+      <td align="center">TAILWIND CSS<br>
+        <span align="center"><img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/></span>
       </td>
 <!---
       <td align="center">XML<br>
@@ -61,6 +58,9 @@
       <td align="center">GitHub<br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/github.png"/></span>
       </td>
+      <td align="center">Python<br>
+        <span align="center"><img src="https://img.icons8.com/color/48/000000/python.png"/></span>
+        </td>
     </tr>   
   </tbody>
 </table>
