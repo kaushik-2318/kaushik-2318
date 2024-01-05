@@ -3,7 +3,7 @@
 
 - 🎓 To be graduate in 2026
   
-- 🐍 Currently Learning Python
+- 🐍 Currently Learning NextJS
 
 - 📫 How to reach me **kaushikverma321@gmail.com**
 
