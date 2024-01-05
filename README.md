@@ -5,7 +5,7 @@
   
 - 🐍 Currently Learning Python
 
-- 📫 How to reach me **kaushikverma123@gmail.com**
+- 📫 How to reach me **kaushikverma321@gmail.com**
 
 ## 🚀 Tech Stack:
 
