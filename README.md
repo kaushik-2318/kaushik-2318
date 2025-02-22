@@ -2,8 +2,6 @@
   <img align="right" src="https://i.imgur.com/iXuL1HG.png" style="height: 100px; float:right">
 
 - 🎓 To be graduate in 2026
-  
-- 👨🏻‍💻 Currently Learning ThreeJS
 
 - 📫 How to reach me **kaushikverma321@gmail.com**
 
