@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **kaushikverma321@gmail.com**
 
-- 📃 <a href="https://drive.google.com/file/d/19CYHl1YSPgS_pTlicT2MvM5SX8UpfwVP/view?usp=drive_link">Resume</a> 
-
 ## 🚀 Tech Stack:
 <div>
 <img src="https://skillicons.dev/icons?i=bootstrap,docker,c,cpp,css,docker,express,github,git,html,js,java,mongodb,nextjs,nodejs,npm,postman,py,react,tailwind" />
