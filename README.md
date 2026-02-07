@@ -61,5 +61,5 @@ I am a Developer based in India, currently completing my degree (Class of 2026).
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushik-2318&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kaushik-2318&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
 </div>
