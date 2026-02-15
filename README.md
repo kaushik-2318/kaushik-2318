@@ -1,5 +1,5 @@
 <div align="center">
- <a href="kaushikverma.com" target=_blank>
+ <a href="https://www.kaushikverma.com" target=_blank>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Kaushik;Full+Stack+Developer;" alt="Typing SVG" />
  </a>
 </div>
