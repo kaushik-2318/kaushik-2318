@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Kaushik;Full+Stack+Developer;Creative+Thinker;Code+Architect" alt="Typing SVG" />
+ <a href="kaushikverma.com" target=_blank>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Kaushik;Full+Stack+Developer;" alt="Typing SVG" />
+ </a>
 </div>
 
 <div align="center">
@@ -11,24 +13,13 @@
   </a>
 </div>
 
-<br/>
+## 💫 About Me:
 
-<div align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=kaushik-2318&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</div>
+I am a Developer based in India, currently completing my degree. I don't just write code; I build solutions. I am currently focused on mastering **Next.js** and **System Design**.
 
-<br/>
-
-## ⚡ About Me
-
-I am a Developer based in India, currently completing my degree (Class of 2026). I don't just write code; I build solutions. I am currently focused on mastering **Next.js** and **System Design**.
-
-* 🔭 I’m currently working on **Full Stack Web Applications**
-* 🌱 I’m currently learning **Advanced Backend Patterns & Docker**
-* 👯 I’m looking to collaborate on **Innovative Open Source Projects**
+* 🌱 Learning something new everyday
+* 👨🏻‍💻 I'm looking forward to collaborate with other dev's
 * 📫 Reach me at **kaushikverma321@gmail.com**
-
----
 
 ## 🛠️ The Arsenal
 
@@ -40,26 +31,26 @@ I am a Developer based in India, currently completing my degree (Class of 2026).
 
 </div>
 
----
-
 ## 📈 Contribution Activity
-
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaushik-2318&bg_color=0d1117&color=7F5AF0&line=7F5AF0&point=FFFFFF&area=true&hide_border=true" />
 </div>
 
-<br/>
+## 📊 GitHub Analytics:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaushik-2318&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaushik-2318&theme=moonlight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaushik-2318&theme=moonlight)
 
-## 📊 GitHub Analytics
+![](https://github-readme-stats.vercel.app/api?username=kaushik-2318&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kaushik-2318&theme=nightowl&hide_border=false)<br/>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaushik-2318&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushik-2318&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="languages" />
+<img src="https://komarev.com/ghpvc/?username=kaushik-2318&&style=for-the-badge" align="center" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kaushik-2318&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
-</div>
+<hr>
