@@ -33,16 +33,16 @@ I am a Developer based in India, currently completing my degree. I don't just wr
 
 ## 📈 Contribution Activity
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaushik-2318&bg_color=0d1117&color=7F5AF0&line=7F5AF0&point=FFFFFF&area=true&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=itskaushikverma&bg_color=0d1117&color=7F5AF0&line=7F5AF0&point=FFFFFF&area=true&hide_border=true" />
 </div>
 
 ## 📊 GitHub Analytics:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaushik-2318&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaushik-2318&theme=moonlight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaushik-2318&theme=moonlight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itskaushikverma&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itskaushikverma&theme=moonlight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itskaushikverma&theme=moonlight)
 
-![](https://github-readme-stats.vercel.app/api?username=kaushik-2318&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=kaushik-2318&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=itskaushikverma&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=itskaushikverma&theme=nightowl&hide_border=false)<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -50,7 +50,7 @@ I am a Developer based in India, currently completing my degree. I don't just wr
 
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=kaushik-2318&&style=for-the-badge" align="center" />
+<img src="https://komarev.com/ghpvc/?username=itskaushikverma&&style=for-the-badge" align="center" />
 </div>
 
 <hr>
